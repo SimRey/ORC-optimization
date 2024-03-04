@@ -33,3 +33,8 @@ For this case study, butane, pentane, isobutane, and isopentane were chosen as w
 ### Case study 2
 
 For this case, in addition to the working fluids butane, pentane, isobutane, and isopentane, the refrigerants R113, R114, R123, and R124 were also used. To replicate the results, run `main.ipynb` in the `Case study 2` folder.
+
+
+### Conclusion
+
+This work demonstrates the significant capability of connecting Python with ASPEN, enabling optimization of the intriguing ORC technology using a model-free method. It is worth noting that this work could be further expanded and enhanced, considering factors such as net profit or operational risks (e.g., flammability, toxicity).
