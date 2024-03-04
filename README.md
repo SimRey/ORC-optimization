@@ -28,7 +28,16 @@ Where:
 
 ### Case study 1
 
-For this case study, butane, pentane, isobutane, and isopentane were chosen as working fluids. To replicate the results, run `main.ipynb` in the `Case study 1` folder.
+For this case study, butane, pentane, isobutane, and isopentane were chosen as working fluids.
+
+
+
+```
+![Pareto curve](https://github.com/SimRey/ORC-optimization/blob/main/Case%20study%201/Pareto%20curve.png)
+```
+
+
+To replicate the results, run `main.ipynb` in the `Case study 1` folder.
 
 ### Case study 2
 
