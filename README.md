@@ -9,15 +9,16 @@ This problem aims to minimize the environmental impact of the ORC while maximizi
 $$
 \begin{align}
 \begin{split}
-\min_{x_i, P_P} \;\; & env = \sum_i{x_i}*GWP_i*MW_i*F \\[2mm]
+\min_{x_i, P_P} \;\; & env = \sum_i{x_i} \cdot GWP_i \cdot MW_i \cdot F \\[2mm]
 \max_{x_i, P_P} \;\; &  \eta = \frac{W_{turb} - W_{pump}}{Q_{in}} \\[1mm]
 \text{s.t.} \;\; & \sum_i{x_i} = 1 \\[1mm]
 & 0 \leq x_i \leq 1 \\
-& 0 \leq P_P \leq 10\\[1mm]
+& 0 \leq P_P \leq 10 \\[1mm]
 & x_i, P_P \in \mathbb{R}
 \end{split}
 \end{align}
 $$
+
 
 Where:
 
